@@ -1,0 +1,6 @@
+organization=adeepak2
+projectKey=kularathna224110P_lab1
+serverUrl=https://sonarcloud.io
+dashboardUrl=https://sonarcloud.io/dashboard?id=kularathna224110P_lab1
+ceTaskId=AaHqgs4wtWRkmGpU_YBB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaHqgs4wtWRkmGpU_YBB
